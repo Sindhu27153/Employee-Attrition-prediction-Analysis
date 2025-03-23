@@ -4,6 +4,7 @@
 This project aims to analyze employee data to identify key factors influencing attrition and develop a predictive model to anticipate employee departures. The model will assist HR professionals in making data-driven decisions to improve employee retention.
 
 ## 🚩Features
+- **Data Collection & Preprocessing :** Collect the historical Data and preprocess the data.
 - **Exploratory Data Analysis (EDA):** Gain insights into attrition trends and influencing factors.
 - **Feature Engineering:** Transform raw data into meaningful features for improved model performance.
 - **Machine Learning Models:** Train multiple models and select the best-performing one.
