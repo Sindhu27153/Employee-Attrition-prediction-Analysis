@@ -1,21 +1,21 @@
 # Employee Attrition Analysis and Prediction
 
-## Project Overview
+## 📟 Project Overview
 This project aims to analyze employee data to identify key factors influencing attrition and develop a predictive model to anticipate employee departures. The model will assist HR professionals in making data-driven decisions to improve employee retention.
 
-## Features
+## 🚩Features
 - **Exploratory Data Analysis (EDA):** Gain insights into attrition trends and influencing factors.
 - **Feature Engineering:** Transform raw data into meaningful features for improved model performance.
 - **Machine Learning Models:** Train multiple models and select the best-performing one.
 - **Model Evaluation:** Assess models using accuracy, precision, recall, and F1-score.
 - **Streamlit App:** Deploy an interactive dashboard for real-time predictions.
 
-## Technologies Used
+## ⚒️ Technologies Used
 - **Python** (pandas, numpy, scikit-learn, matplotlib, seaborn, Streamlit, pickle)
 - **Machine Learning Algorithms** (Logistic Regression, Decision Trees, Random Forest, XGBoost, etc.)
 - **Deployment:** Streamlit
 
-## Installation
+## 🎯 Installation
 1. Create and activate a virtual environment:
    ```bash
    python -m venv venv
@@ -27,7 +27,7 @@ This project aims to analyze employee data to identify key factors influencing a
    pip install -r requirements.txt
    ```
 
-## Usage
+## 🔮 Usage
 1. Load the trained model and make predictions:
    ```python
    import pickle
@@ -48,7 +48,7 @@ This project aims to analyze employee data to identify key factors influencing a
    ```
 3. Open the displayed URL in your browser to use the prediction dashboard.
 
-## Project Structure
+## 🧬Project Structure
 ```
 employee-attrition-prediction/
 │── data/                  # Dataset files
@@ -59,7 +59,7 @@ employee-attrition-prediction/
 │── README.md              # Project documentation
 ```
 
-## Evaluation Metrics
+## 🏆Evaluation Metrics
 The models are evaluated based on:
 - Accuracy
 - Precision
@@ -67,15 +67,15 @@ The models are evaluated based on:
 - F1-Score
 - ROC-AUC Score
 
-## Future Enhancements
+## 📈Future Enhancements
 - Improve feature engineering
 - Implement deep learning models
 - Enhance the UI of the Streamlit app
 - Automate data ingestion
 
-## Contributors
+## 💎Contributors
 - **Sindhuja Seenivasan**
 
-## Acknowledgments
+## 🚩Acknowledgments
 Special thanks to open-source contributors and research papers that guided the development of this project.
 
