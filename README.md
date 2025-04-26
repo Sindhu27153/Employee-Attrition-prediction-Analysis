@@ -14,7 +14,7 @@ This project aims to analyze employee data to identify key factors influencing a
 ## ⚒️ Technologies Used
 - **Python** (pandas, numpy, scikit-learn, matplotlib, seaborn, Streamlit, pickle)
 - **Machine Learning Algorithms** (Logistic Regression, Decision Trees, Random Forest, XGBoost, etc.)
-- **Deployment:** Streamlit
+
 
 ## 🎯 Installation
 1. Create and activate a virtual environment:
