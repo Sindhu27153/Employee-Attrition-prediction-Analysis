@@ -74,9 +74,6 @@ The models are evaluated based on:
 - Enhance the UI of the Streamlit app
 - Automate data ingestion
 
-## 💎Contributors
-- **Sindhuja Seenivasan**
-
 ## 🚩Acknowledgments
 Special thanks to open-source contributors and research papers that guided the development of this project.
 
